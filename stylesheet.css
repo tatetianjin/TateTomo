@@ -19,9 +19,9 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(top.png);
+  background-image: url(top1.png);
   background-size: cover;
-  color: red;
+  color: white;
   text-align: center;
 }
 
